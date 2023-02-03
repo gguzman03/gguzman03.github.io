@@ -27,7 +27,7 @@ You may pick from these three Pokemon:
 Charmander
 Squirtle`
 
-look at this color! 'rgb(6,99,255)'
+look at this color! `rgb(6,99,255)`
 
 [Here is a link to the Wikipedia page about Pac-Man. ](https://en.wikipedia.org/wiki/Pac-Man)
 
